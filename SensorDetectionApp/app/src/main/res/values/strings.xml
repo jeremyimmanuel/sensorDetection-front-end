@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SensorDetection</string>
+    <string name="choose_type">Choose a Type</string>
+    <string name="button_recorder">Recorder</string>
+    <string name="button_player">Player</string>
+    <string name="type_something">Type something</string>
+    <string name="sensor_detection">Sensor Detection App</string>
+    <string name="player_confirmation">Player Mode Activated!</string>
+    <string name="recorder_activation">Recording! Please wait for player to stop process.</string>
+    <string name="play_button_string">Play</string>
+    <string name="awaiting_instructions">Awaiting instructions from server</string>
+    <string name="recorder_connected">Recorder phone connected!</string>
+    <string name="player_connected">Player phone connected!</string>
+    <string name="start_button">START</string>
+    <string name="player_activation">Press play to start sound. Press stop to end process.</string>
+    <string name="finish_recording">Recording Finished! :D</string>
+    <string name="num_recorders">Number of connected recorders:</string>
+    <string name="restart_app">RESTART</string>
+</resources>
